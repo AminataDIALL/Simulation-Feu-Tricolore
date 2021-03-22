@@ -1,0 +1,608 @@
+3.0 : add 1 Voie1
+6.0 : add 3 Voie2
+6.0 : add 4 Voie3
+5.0 : Jaune
+5.0 : add 2 Voie1
+10.0 : outCar 3 Voie2
+10.0 : add 7 Voie3
+12.0 : Rouge
+7.0 : outCar 1 Voie1
+12.0 : add 9 Voie2
+14.0 : outCar 7 Voie3
+21.0 : Vert
+8.0 : add 5 Voie1
+16.0 : outCar 9 Voie2
+15.0 : add 11 Voie3
+26.0 : Jaune
+10.0 : add 6 Voie1
+21.0 : add 15 Voie2
+19.0 : add 13 Voie3
+33.0 : Rouge
+11.0 : outCar 2 Voie1
+25.0 : outCar 15 Voie2
+23.0 : outCar 13 Voie3
+42.0 : Vert
+12.0 : add 8 Voie1
+28.0 : add 20 Voie2
+25.0 : add 17 Voie3
+47.0 : Jaune
+13.0 : outCar 5 Voie1
+32.0 : outCar 20 Voie2
+29.0 : outCar 17 Voie3
+54.0 : Rouge
+15.0 : add 10 Voie1
+39.0 : add 27 Voie2
+31.0 : add 22 Voie3
+63.0 : Vert
+16.0 : outCar 6 Voie1
+43.0 : outCar 27 Voie2
+35.0 : add 25 Voie3
+68.0 : Jaune
+17.0 : add 12 Voie1
+48.0 : add 34 Voie2
+39.0 : outCar 25 Voie3
+75.0 : Rouge
+18.0 : outCar 8 Voie1
+52.0 : outCar 34 Voie2
+40.0 : add 29 Voie3
+84.0 : Vert
+20.0 : add 14 Voie1
+55.0 : add 39 Voie2
+44.0 : outCar 29 Voie3
+89.0 : Jaune
+21.0 : outCar 10 Voie1
+59.0 : outCar 39 Voie2
+46.0 : add 32 Voie3
+96.0 : Rouge
+23.0 : add 16 Voie1
+64.0 : add 46 Voie2
+50.0 : outCar 32 Voie3
+105.0 : Vert
+25.0 : outCar 12 Voie1
+68.0 : outCar 46 Voie2
+51.0 : add 36 Voie3
+110.0 : Jaune
+26.0 : add 18 Voie1
+75.0 : add 53 Voie2
+55.0 : outCar 36 Voie3
+117.0 : Rouge
+28.0 : add 19 Voie1
+79.0 : outCar 53 Voie2
+57.0 : add 41 Voie3
+126.0 : Vert
+29.0 : outCar 16 Voie1
+81.0 : add 58 Voie2
+61.0 : outCar 41 Voie3
+131.0 : Jaune
+30.0 : add 21 Voie1
+85.0 : outCar 58 Voie2
+63.0 : add 45 Voie3
+138.0 : Rouge
+31.0 : outCar 18 Voie1
+87.0 : add 62 Voie2
+67.0 : outCar 45 Voie3
+145.4358369520906 : Panne
+32.0 : add 23 Voie1
+91.0 : outCar 62 Voie2
+68.0 : add 48 Voie3
+150.4358369520906 : Vert
+34.0 : outCar 19 Voie1
+99.0 : add 72 Voie2
+72.0 : add 51 Voie3
+155.4358369520906 : Jaune
+35.0 : add 24 Voie1
+103.0 : outCar 72 Voie2
+76.0 : outCar 51 Voie3
+162.4358369520906 : Rouge
+37.0 : outCar 21 Voie1
+109.0 : add 79 Voie2
+77.0 : add 55 Voie3
+171.4358369520906 : Vert
+38.0 : add 26 Voie1
+113.0 : outCar 79 Voie2
+81.0 : outCar 55 Voie3
+176.4358369520906 : Jaune
+40.0 : add 28 Voie1
+118.0 : add 85 Voie2
+82.0 : add 59 Voie3
+183.4358369520906 : Rouge
+42.0 : outCar 23 Voie1
+122.0 : outCar 85 Voie2
+86.0 : outCar 59 Voie3
+192.4358369520906 : Vert
+43.0 : add 30 Voie1
+130.0 : add 94 Voie2
+88.0 : add 64 Voie3
+197.4358369520906 : Jaune
+45.0 : add 31 Voie1
+134.0 : outCar 94 Voie2
+92.0 : outCar 64 Voie3
+204.4358369520906 : Rouge
+47.0 : add 33 Voie1
+137.0 : add 99 Voie2
+94.0 : add 67 Voie3
+213.4358369520906 : Vert
+49.0 : outCar 24 Voie1
+141.0 : outCar 99 Voie2
+98.0 : add 70 Voie3
+218.4358369520906 : Jaune
+50.0 : add 35 Voie1
+146.0 : add 105 Voie2
+102.0 : add 74 Voie3
+225.4358369520906 : Rouge
+52.0 : add 37 Voie1
+150.0 : outCar 105 Voie2
+106.0 : outCar 74 Voie3
+234.4358369520906 : Vert
+54.0 : add 38 Voie1
+156.0 : add 112 Voie2
+108.0 : add 77 Voie3
+239.4358369520906 : Jaune
+56.0 : add 40 Voie1
+160.0 : outCar 112 Voie2
+112.0 : outCar 77 Voie3
+246.4358369520906 : Rouge
+58.0 : add 42 Voie1
+164.0 : add 119 Voie2
+114.0 : add 82 Voie3
+247.57406248777184 : Panne
+60.0 : add 43 Voie1
+168.0 : outCar 119 Voie2
+118.0 : add 86 Voie3
+251.57406248777184 : Vert
+62.0 : outCar 28 Voie1
+171.0 : add 123 Voie2
+122.0 : outCar 86 Voie3
+256.5740624877718 : Jaune
+63.0 : add 44 Voie1
+175.0 : outCar 123 Voie2
+123.0 : add 90 Voie3
+263.5740624877718 : Rouge
+65.0 : outCar 33 Voie1
+177.0 : add 129 Voie2
+127.0 : outCar 90 Voie3
+272.5740624877718 : Vert
+66.0 : add 47 Voie1
+181.0 : outCar 129 Voie2
+129.0 : add 93 Voie3
+277.5740624877718 : Jaune
+68.0 : outCar 43 Voie1
+186.0 : add 135 Voie2
+133.0 : outCar 93 Voie3
+284.5740624877718 : Rouge
+69.0 : add 49 Voie1
+190.0 : outCar 135 Voie2
+134.0 : add 97 Voie3
+293.5740624877718 : Vert
+71.0 : add 50 Voie1
+195.0 : add 142 Voie2
+138.0 : outCar 97 Voie3
+298.5740624877718 : Jaune
+73.0 : add 52 Voie1
+199.0 : outCar 142 Voie2
+139.0 : add 100 Voie3
+305.5740624877718 : Rouge
+75.0 : outCar 44 Voie1
+207.0 : add 149 Voie2
+143.0 : outCar 100 Voie3
+314.5740624877718 : Vert
+76.0 : add 54 Voie1
+211.0 : outCar 149 Voie2
+144.0 : add 103 Voie3
+319.5740624877718 : Jaune
+78.0 : outCar 47 Voie1
+218.0 : add 157 Voie2
+148.0 : outCar 103 Voie3
+326.5740624877718 : Rouge
+79.0 : add 56 Voie1
+222.0 : outCar 157 Voie2
+149.0 : add 107 Voie3
+335.5740624877718 : Vert
+81.0 : add 57 Voie1
+226.0 : add 162 Voie2
+153.0 : add 110 Voie3
+340.5740624877718 : Jaune
+83.0 : add 60 Voie1
+230.0 : outCar 162 Voie2
+157.0 : add 114 Voie3
+347.5740624877718 : Rouge
+85.0 : outCar 52 Voie1
+233.0 : add 167 Voie2
+161.0 : outCar 114 Voie3
+356.5740624877718 : Vert
+86.0 : add 61 Voie1
+237.0 : outCar 167 Voie2
+162.0 : add 117 Voie3
+361.5740624877718 : Jaune
+88.0 : add 63 Voie1
+242.0 : add 174 Voie2
+166.0 : outCar 117 Voie3
+368.5740624877718 : Rouge
+90.0 : outCar 54 Voie1
+246.0 : outCar 174 Voie2
+168.0 : add 121 Voie3
+370.07466502387103 : Panne
+91.0 : add 65 Voie1
+253.0 : add 182 Voie2
+172.0 : add 125 Voie3
+374.07466502387103 : Vert
+93.0 : add 66 Voie1
+257.0 : outCar 182 Voie2
+176.0 : add 128 Voie3
+379.07466502387103 : Jaune
+95.0 : add 68 Voie1
+261.0 : add 188 Voie2
+180.0 : outCar 128 Voie3
+386.07466502387103 : Rouge
+97.0 : add 69 Voie1
+265.0 : outCar 188 Voie2
+182.0 : add 132 Voie3
+395.07466502387103 : Vert
+99.0 : add 71 Voie1
+269.0 : add 194 Voie2
+186.0 : add 136 Voie3
+400.07466502387103 : Jaune
+101.0 : add 73 Voie1
+273.0 : outCar 194 Voie2
+190.0 : outCar 136 Voie3
+407.07466502387103 : Rouge
+103.0 : outCar 60 Voie1
+277.0 : add 199 Voie2
+191.0 : add 139 Voie3
+416.07466502387103 : Vert
+104.0 : add 75 Voie1
+281.0 : outCar 199 Voie2
+195.0 : add 143 Voie3
+421.07466502387103 : Jaune
+106.0 : add 76 Voie1
+283.0 : add 205 Voie2
+199.0 : outCar 143 Voie3
+428.07466502387103 : Rouge
+108.0 : outCar 63 Voie1
+287.0 : outCar 205 Voie2
+201.0 : add 146 Voie3
+437.07466502387103 : Vert
+109.0 : add 78 Voie1
+294.0 : add 213 Voie2
+205.0 : outCar 146 Voie3
+442.07466502387103 : Jaune
+111.0 : add 80 Voie1
+298.0 : outCar 213 Voie2
+207.0 : add 150 Voie3
+449.07466502387103 : Rouge
+113.0 : add 81 Voie1
+300.0 : add 217 Voie2
+211.0 : add 153 Voie3
+458.07466502387103 : Vert
+115.0 : add 83 Voie1
+304.0 : outCar 217 Voie2
+215.0 : outCar 153 Voie3
+463.07466502387103 : Jaune
+117.0 : add 84 Voie1
+306.0 : add 222 Voie2
+217.0 : add 156 Voie3
+470.07466502387103 : Rouge
+119.0 : add 87 Voie1
+310.0 : outCar 222 Voie2
+221.0 : add 160 Voie3
+479.07466502387103 : Vert
+121.0 : add 88 Voie1
+312.0 : add 226 Voie2
+225.0 : outCar 160 Voie3
+484.07466502387103 : Jaune
+123.0 : add 89 Voie1
+316.0 : outCar 226 Voie2
+227.0 : add 164 Voie3
+491.07466502387103 : Rouge
+125.0 : outCar 73 Voie1
+320.0 : add 232 Voie2
+231.0 : outCar 164 Voie3
+500.07466502387103 : Vert
+126.0 : add 91 Voie1
+324.0 : outCar 232 Voie2
+233.0 : add 168 Voie3
+505.07466502387103 : Jaune
+128.0 : outCar 76 Voie1
+331.0 : add 241 Voie2
+237.0 : outCar 168 Voie3
+512.074665023871 : Rouge
+129.0 : add 92 Voie1
+335.0 : outCar 241 Voie2
+239.0 : add 172 Voie3
+514.2312759476283 : Panne
+131.0 : outCar 89 Voie1
+340.0 : add 246 Voie2
+243.0 : add 176 Voie3
+518.2312759476283 : Vert
+132.0 : add 95 Voie1
+344.0 : outCar 246 Voie2
+247.0 : outCar 176 Voie3
+523.2312759476283 : Jaune
+134.0 : add 96 Voie1
+350.0 : add 254 Voie2
+249.0 : add 179 Voie3
+530.2312759476283 : Rouge
+136.0 : outCar 91 Voie1
+354.0 : outCar 254 Voie2
+253.0 : add 183 Voie3
+539.2312759476283 : Vert
+137.0 : add 98 Voie1
+362.0 : add 261 Voie2
+257.0 : outCar 183 Voie3
+544.2312759476283 : Jaune
+139.0 : outCar 92 Voie1
+366.0 : outCar 261 Voie2
+259.0 : add 186 Voie3
+551.2312759476283 : Rouge
+140.0 : add 101 Voie1
+374.0 : add 271 Voie2
+263.0 : add 190 Voie3
+560.2312759476283 : Vert
+142.0 : outCar 96 Voie1
+378.0 : outCar 271 Voie2
+267.0 : outCar 190 Voie3
+565.2312759476283 : Jaune
+143.0 : add 102 Voie1
+385.0 : add 278 Voie2
+268.0 : add 193 Voie3
+572.2312759476283 : Rouge
+145.0 : outCar 98 Voie1
+389.0 : outCar 278 Voie2
+272.0 : add 196 Voie3
+581.2312759476283 : Vert
+146.0 : add 104 Voie1
+396.0 : add 285 Voie2
+276.0 : outCar 196 Voie3
+586.2312759476283 : Jaune
+148.0 : add 106 Voie1
+400.0 : outCar 285 Voie2
+277.0 : add 200 Voie3
+593.2312759476283 : Rouge
+150.0 : add 108 Voie1
+407.0 : add 292 Voie2
+281.0 : outCar 200 Voie3
+602.2312759476283 : Vert
+152.0 : add 109 Voie1
+411.0 : outCar 292 Voie2
+282.0 : add 204 Voie3
+607.2312759476283 : Jaune
+154.0 : add 111 Voie1
+414.0 : add 296 Voie2
+286.0 : outCar 204 Voie3
+614.2312759476283 : Rouge
+156.0 : outCar 101 Voie1
+418.0 : outCar 296 Voie2
+287.0 : add 207 Voie3
+620.456522573699 : Panne
+157.0 : add 113 Voie1
+420.0 : add 300 Voie2
+291.0 : add 210 Voie3
+624.456522573699 : Vert
+159.0 : outCar 102 Voie1
+424.0 : outCar 300 Voie2
+295.0 : outCar 210 Voie3
+629.456522573699 : Jaune
+160.0 : add 115 Voie1
+427.0 : add 306 Voie2
+296.0 : add 215 Voie3
+636.456522573699 : Rouge
+162.0 : add 116 Voie1
+431.0 : outCar 306 Voie2
+300.0 : outCar 215 Voie3
+645.456522573699 : Vert
+164.0 : add 118 Voie1
+434.0 : add 311 Voie2
+302.0 : add 219 Voie3
+650.456522573699 : Jaune
+166.0 : outCar 111 Voie1
+438.0 : outCar 311 Voie2
+306.0 : outCar 219 Voie3
+657.456522573699 : Rouge
+167.0 : add 120 Voie1
+443.0 : add 317 Voie2
+308.0 : add 224 Voie3
+666.456522573699 : Vert
+169.0 : add 122 Voie1
+447.0 : outCar 317 Voie2
+312.0 : add 227 Voie3
+671.456522573699 : Jaune
+171.0 : outCar 113 Voie1
+450.0 : add 322 Voie2
+316.0 : outCar 227 Voie3
+678.456522573699 : Rouge
+172.0 : add 124 Voie1
+454.0 : outCar 322 Voie2
+317.0 : add 230 Voie3
+687.456522573699 : Vert
+174.0 : add 126 Voie1
+461.0 : add 330 Voie2
+321.0 : outCar 230 Voie3
+692.456522573699 : Jaune
+176.0 : add 127 Voie1
+465.0 : outCar 330 Voie2
+322.0 : add 234 Voie3
+699.456522573699 : Rouge
+178.0 : add 130 Voie1
+468.0 : add 337 Voie2
+326.0 : add 237 Voie3
+708.456522573699 : Vert
+180.0 : outCar 118 Voie1
+472.0 : outCar 337 Voie2
+330.0 : add 239 Voie3
+713.456522573699 : Jaune
+181.0 : add 131 Voie1
+474.0 : add 341 Voie2
+334.0 : add 243 Voie3
+720.456522573699 : Rouge
+183.0 : add 133 Voie1
+478.0 : outCar 341 Voie2
+338.0 : outCar 243 Voie3
+729.456522573699 : Vert
+185.0 : add 134 Voie1
+486.0 : add 349 Voie2
+340.0 : add 247 Voie3
+734.456522573699 : Jaune
+187.0 : add 137 Voie1
+490.0 : outCar 349 Voie2
+344.0 : add 249 Voie3
+741.456522573699 : Rouge
+189.0 : outCar 122 Voie1
+493.0 : add 354 Voie2
+348.0 : outCar 249 Voie3
+743.5895478565249 : Panne
+190.0 : add 138 Voie1
+497.0 : outCar 354 Voie2
+349.0 : add 252 Voie3
+747.5895478565249 : Vert
+192.0 : add 140 Voie1
+505.0 : add 363 Voie2
+353.0 : outCar 252 Voie3
+752.5895478565249 : Jaune
+194.0 : add 141 Voie1
+509.0 : outCar 363 Voie2
+354.0 : add 256 Voie3
+759.5895478565249 : Rouge
+196.0 : outCar 130 Voie1
+516.0 : add 370 Voie2
+358.0 : outCar 256 Voie3
+768.5895478565249 : Vert
+197.0 : add 144 Voie1
+520.0 : outCar 370 Voie2
+360.0 : add 260 Voie3
+773.5895478565249 : Jaune
+199.0 : add 145 Voie1
+522.0 : add 375 Voie2
+364.0 : outCar 260 Voie3
+780.5895478565249 : Rouge
+201.0 : outCar 137 Voie1
+526.0 : outCar 375 Voie2
+365.0 : add 264 Voie3
+789.5895478565249 : Vert
+202.0 : add 147 Voie1
+533.0 : add 382 Voie2
+369.0 : add 266 Voie3
+794.5895478565249 : Jaune
+204.0 : outCar 141 Voie1
+537.0 : outCar 382 Voie2
+373.0 : add 269 Voie3
+801.5895478565249 : Rouge
+205.0 : add 148 Voie1
+539.0 : add 386 Voie2
+377.0 : outCar 269 Voie3
+810.5895478565249 : Vert
+207.0 : outCar 145 Voie1
+543.0 : outCar 386 Voie2
+378.0 : add 273 Voie3
+815.5895478565249 : Jaune
+208.0 : add 151 Voie1
+551.0 : add 393 Voie2
+382.0 : outCar 273 Voie3
+822.5895478565249 : Rouge
+210.0 : outCar 147 Voie1
+555.0 : outCar 393 Voie2
+383.0 : add 276 Voie3
+831.5895478565249 : Vert
+211.0 : add 152 Voie1
+557.0 : add 398 Voie2
+387.0 : outCar 276 Voie3
+836.5895478565249 : Jaune
+213.0 : add 154 Voie1
+561.0 : outCar 398 Voie2
+389.0 : add 280 Voie3
+843.5895478565249 : Rouge
+215.0 : outCar 148 Voie1
+565.0 : add 404 Voie2
+393.0 : outCar 280 Voie3
+852.5895478565249 : Vert
+216.0 : add 155 Voie1
+569.0 : outCar 404 Voie2
+395.0 : add 283 Voie3
+857.5895478565249 : Jaune
+218.0 : outCar 151 Voie1
+573.0 : add 410 Voie2
+399.0 : outCar 283 Voie3
+861.7449284806557 : Panne
+219.0 : add 158 Voie1
+577.0 : outCar 410 Voie2
+400.0 : add 287 Voie3
+866.7449284806557 : Vert
+221.0 : add 159 Voie1
+581.0 : add 416 Voie2
+404.0 : outCar 287 Voie3
+871.7449284806557 : Jaune
+223.0 : outCar 154 Voie1
+585.0 : outCar 416 Voie2
+405.0 : add 290 Voie3
+878.7449284806557 : Rouge
+224.0 : add 161 Voie1
+587.0 : add 421 Voie2
+409.0 : outCar 290 Voie3
+887.7449284806557 : Vert
+226.0 : outCar 155 Voie1
+591.0 : outCar 421 Voie2
+410.0 : add 294 Voie3
+892.7449284806557 : Jaune
+227.0 : add 163 Voie1
+596.0 : add 427 Voie2
+414.0 : add 297 Voie3
+899.7449284806557 : Rouge
+229.0 : outCar 159 Voie1
+600.0 : outCar 427 Voie2
+418.0 : outCar 297 Voie3
+908.7449284806557 : Vert
+230.0 : add 165 Voie1
+608.0 : add 436 Voie2
+420.0 : add 301 Voie3
+913.7449284806557 : Jaune
+232.0 : add 166 Voie1
+612.0 : outCar 436 Voie2
+424.0 : outCar 301 Voie3
+920.7449284806557 : Rouge
+234.0 : add 169 Voie1
+619.0 : add 444 Voie2
+426.0 : add 304 Voie3
+929.7449284806557 : Vert
+236.0 : outCar 161 Voie1
+623.0 : outCar 444 Voie2
+430.0 : outCar 304 Voie3
+934.7449284806557 : Jaune
+237.0 : add 170 Voie1
+625.0 : add 449 Voie2
+431.0 : add 308 Voie3
+941.7449284806557 : Rouge
+239.0 : add 171 Voie1
+629.0 : outCar 449 Voie2
+435.0 : outCar 308 Voie3
+950.7449284806557 : Vert
+241.0 : add 173 Voie1
+631.0 : add 453 Voie2
+436.0 : add 312 Voie3
+955.7449284806557 : Jaune
+243.0 : add 175 Voie1
+635.0 : outCar 453 Voie2
+440.0 : outCar 312 Voie3
+962.7449284806557 : Rouge
+245.0 : add 177 Voie1
+642.0 : add 460 Voie2
+441.0 : add 315 Voie3
+963.3372621804405 : Panne
+247.0 : outCar 163 Voie1
+646.0 : outCar 460 Voie2
+445.0 : add 319 Voie3
+967.3372621804405 : Vert
+248.0 : add 178 Voie1
+651.0 : add 467 Voie2
+449.0 : outCar 319 Voie3
+972.3372621804405 : Jaune
+250.0 : outCar 169 Voie1
+655.0 : outCar 467 Voie2
+450.0 : add 323 Voie3
+979.3372621804405 : Rouge
+251.0 : add 180 Voie1
+662.0 : add 475 Voie2
+454.0 : outCar 323 Voie3
+988.3372621804405 : Vert
+253.0 : add 181 Voie1
+666.0 : outCar 475 Voie2
+456.0 : add 327 Voie3
+993.3372621804405 : Jaune
